@@ -67,7 +67,7 @@
 "ui.window" = { fg = "grey0", bg = "bg0" }
 "ui.help" = { fg = "fg", bg = "bg2" }
 "ui.text" = "fg"
-"ui.text.focus" = "fg"
+"ui.text.focus" = "green"
 "ui.menu" = { fg = "fg", bg = "bg3" }
 "ui.menu.selected" = { fg = "bg0", bg = "green" }
 "ui.virtual.whitespace" = { fg = "bg4" }
