@@ -78,6 +78,7 @@
 "ui.virtual.indent-guide" = { fg = "sumiInk3" }
 "ui.virtual.ruler" = { bg = "sumiInk3" }
 "ui.virtual.inlay-hint" = "katanaGray"
+"ui.virtual.jump-label" = { fg = "sakuraPink", modifiers = ["bold"] }
 
 "hint" = "springBlue"
 "info" = "crystalBlue"

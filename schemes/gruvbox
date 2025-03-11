@@ -74,6 +74,7 @@
 "ui.virtual.indent-guide" = { fg = "bg4" }
 "ui.virtual.ruler" = { bg = "bg3" }
 "ui.virtual.inlay-hint" = "grey0" 
+"ui.virtual.jump-label" = { fg = "blue", modifiers = ["bold"] }
 
 "hint" = "blue"
 "info" = "aqua"
