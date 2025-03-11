@@ -67,7 +67,7 @@
 "ui.statusline.select" = { fg = "sumiInk0", bg = "sakuraPink", modifiers = ["bold"] }
 "ui.bufferline" = { fg = "sumiInk4", bg = "sumiInk0" }
 "ui.bufferline.active" = { fg = "lightBlue", bg = "sumiInk1", modifiers = ["bold"] }
-"ui.popup" = { fg = "sumiInk2", bg = "sumiInk2" }
+"ui.popup" = { fg = "sumiInk4", bg = "sumiInk2" }
 "ui.window" = { fg = "sumiInk4", bg = "sumiInk1" }
 "ui.help" = { fg = "fujiWhite", bg = "sumiInk2" }
 "ui.text" = "fujiWhite"
