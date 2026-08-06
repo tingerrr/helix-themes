@@ -19,6 +19,7 @@
 "function" = "green"
 "function.builtin" = "blue"
 "function.macro" = "aqua"
+"function.special" = "orange"
 "tag" = "yellow"
 "namespace" = "aqua"
 "attribute" = "aqua"

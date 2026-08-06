@@ -22,6 +22,7 @@
 "function" = "springGreen"
 "function.builtin" = "springBlue"
 "function.macro" = "springBlue"
+"function.special" = "surimiOrange"
 "tag" = "carpYellow"
 "namespace" = "waveAqua2"
 "module" = "waveAqua2"

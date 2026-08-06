@@ -19,6 +19,7 @@
 "function" = "blue"
 "function.builtin" = "blue"
 "function.macro" = "cyan"
+"function.special" = "orange"
 "tag" = "yellow"
 "namespace" = "red"
 "attribute" = "cyan"
