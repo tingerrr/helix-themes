@@ -21,6 +21,7 @@
 "function.macro" = "aqua"
 "function.special" = "orange"
 "tag" = "yellow"
+"tag.builtin" = "blue"
 "namespace" = "aqua"
 "attribute" = "aqua"
 "constructor" = "yellow"

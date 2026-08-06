@@ -21,6 +21,7 @@
 "function.macro" = "purple"
 "function.special" = "orange"
 "tag" = "yellow"
+"tag.builtin" = "blue"
 "namespace" = "blue"
 "attribute" = "purple"
 "constructor" = "blue"
